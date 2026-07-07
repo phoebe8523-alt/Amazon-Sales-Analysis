@@ -5,7 +5,7 @@ The main objective is to explore customer purchasing behavior, sales performance
 
 ## Dataset
 - Source : Kaggle
-- - File: `data/amazon_sales_dataset.csv
+- File: `data/amazon_sales_dataset.csv
 - 50,000 records
 - 14 columns
 - Sales transaction dataset
