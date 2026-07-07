@@ -38,22 +38,22 @@ The main objective is to explore customer purchasing behavior, sales performance
 ## Results Preview
 
 ### KPI Dashboard
-![KPI Dashboard](images/amazon_kpi_dashboard.png)
+![KPI Dashboard](output/amazon_kpi_dashboard.png)
 
 ### Monthly Revenue Trend
-![Monthly Revenue Trend](images/monthly_revenue_trend.png)
+![Monthly Revenue Trend](output/monthly_revenue_trend.png)
 
 ### Revenue by Customer Region
-![Revenue by Region](images/revenue_by_region.png)
+![Revenue by Region](output/revenue_by_region.png)
 
 ### Revenue by Product Category
-![Revenue by Product Category](images/revenue_by_product_category.png)
+![Revenue by Product Category](output/revenue_by_product_category.png)
 
 ### Revenue Heatmap
-![Revenue Heatmap](images/revenue_heatmap_region_category.png)
+![Revenue Heatmap](output/revenue_heatmap_region_category.png)
 
 ### Top 10 Products by Revenue
-![Top Products](images/top_10_products_by_revenue.png)
+![Top Products](output/top_10_products_by_revenue.png)
 
 ## Business Insights
 - Beauty products consistently outperformed other categories in both revenue and sales volume, indicating strong market demand.
